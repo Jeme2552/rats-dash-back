@@ -1,0 +1,25 @@
+{
+  "name": "rats-dash-back",
+  "version": "0.0.1",
+  "description": "Backend do dashboard de RATs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeme2552/rats-dash-back.git"
+  },
+  "author": "João Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeme2552/rats-dash-back/issues"
+  },
+  "homepage": "https://github.com/Jeme2552/rats-dash-back#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
